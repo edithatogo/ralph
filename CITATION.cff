@@ -1,0 +1,12 @@
+# Citation File Format: https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: If you use this software, please cite it using this metadata and record the commit
+  or release used.
+title: Ralph
+authors:
+- name: ralph project
+  website: https://github.com/gemini-cli-extensions/ralph
+repository-code: https://github.com/edithatogo/ralph
+url: https://github.com/edithatogo/ralph
+abstract: This repository is a fork of gemini-cli-extensions/ralph. The upstream project retains
+  its authorship and attribution. Cite the exact repository revision used.
